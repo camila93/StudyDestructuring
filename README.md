@@ -1,2 +1,0 @@
-# StudyDestructuring
-Created with CodeSandbox
